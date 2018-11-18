@@ -5,6 +5,7 @@ client.on('ready', () => {
     console.log('I am ready!');
 });
 
+ 
  var prefix = "19";
 
  client.on('message', message => {
@@ -33,8 +34,6 @@ client.on('ready', () => {
   }
 
 });
-
-
 
 
 
